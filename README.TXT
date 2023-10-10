@@ -1,12 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Proyecto realizado en la materia fundamentos de programación.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Se trata de un parqueadero de vehiculos, que registra entrada de cada vehículo con placa, color y hora de entrada. Al momento de el vehiculo realizar su salida, se le hace su cobro respecto a las horas en que se quedó en el parqueadero.
